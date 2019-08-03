@@ -38,16 +38,16 @@ func (p *Person) getMarried(spouseName string) {
 func main() {
 	// init X love using struct
 	//love := Person {
-	//	firstName: "Sevda",
-	//	lastName: "Ebadi",
+	//	firstName: "Jessica",
+	//	lastName: "NoOne",
 	//	city: "Tehran",
 	//	gender: "Female",
 	//	age: 21,
 	//}
 	// alternative way
 	love := Person{
-		"Sevda",
-		"Ebadi",
+		"Jessica",
+		"NoOne",
 		"Tehran",
 		"Female",
 		21,
